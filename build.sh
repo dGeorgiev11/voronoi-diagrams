@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-	cc main.c -o voronoi -Wall -Wextra -pedantic -std=c99 -lm
+	cc main.c -o voronoi -Wall -Wextra -pedantic -std=c99 -lm -lraylib
